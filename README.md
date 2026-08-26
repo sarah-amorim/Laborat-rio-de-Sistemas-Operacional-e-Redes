@@ -1,1 +1,1 @@
-# Laborat-rio-de-Sistemas-Operacional-e-Redes
+# Laboratorio-de-Sistemas-Operacional-e-Redes
